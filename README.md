@@ -8,5 +8,6 @@ How to run
 4) After checking the processor extract the code and run each block
 5) change the location of the video file according to your storage system
 6) finally run the code
+   *(Check the video link and also the length of the video)
 
 Its performance can be evaluated by checking the lip position and it can be adjusted using the padding.
